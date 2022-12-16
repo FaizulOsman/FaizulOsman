@@ -1,8 +1,8 @@
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
+<img width="100%" src="https://raw.githubusercontent.com/FaizulOsman/FaizulOsman/main/banner.jpg" alt="cover" />
 </div>
 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Faizul Osman</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/FaizulOsman/FaizulOsman/main/hi.gif" width="50px" height="50px">, I'm Faizul Osman</h1>
 
 <h3 align="center">A passionate Full Stack Developer from 🇧🇩</h3>  
 <br />
@@ -16,7 +16,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/faizul-osman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizulosman" height="30" width="40" /></a>  
 <a href="https://stackoverflow.com/users/19446312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11409373" height="30" width="40" /></a>  
-<a href="https://www.facebook.com/faizulosmanrabby/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakil.atik15" height="30" width="40" /></a>
+<a href="https://www.facebook.com/faizulosmanrabby/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faizulosman" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCUFKCWYzivY5VJl2Uqv5iHg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hexacode" height="30" width="40" /></a>   
 <a href="https://twitter.com/FaizulOsman3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faizulosman" height="30" width="40" /></a>    
 </p>
