@@ -47,10 +47,10 @@
 
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 
-### 🌱 I’m exploring - Redux, TypeScript & React-Native.
+### 🌱 I’m exploring - PHP, Laravel & Python.
 
-### 👯 I’m looking - To collaborate on open source projects.
+### 👯 I’m looking - To collaborate on open-source projects.
 
-### 💬 Talk to me about JavaScript, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, Firebase, Freelancing Opportunities etc.
+### 💬 Talk to me about JavaScript, TypeScript, ReactJS, NextJS, React-Native, Redux, NodeJS, ExpressJS, MongoDB, Firebase, Freelancing Opportunities etc.
 
 ### 📫 Reach me at **faizulosmanrabby@gmail.com**
